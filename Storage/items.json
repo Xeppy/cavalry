@@ -1,0 +1,20 @@
+{
+    "Dagger": {
+        "name": "Dagger",
+        "type": "Weapon",
+        "price": "500",
+        "desc": "A common dagger"
+    },
+    "Sword": {
+        "name": "Sword",
+        "type": "Weapon",
+        "price": "1000",
+        "desc": "A common sword"
+    },
+    "Apple": {
+        "name": "Apple",
+        "type": "Food",
+        "price": "200",
+        "desc": "An apple a day kills you"
+    }
+}
